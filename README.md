@@ -3,7 +3,7 @@ Data and Scripts for modelling the efficiency of the GM SCM150 Motor and Tritium
 
 # GM SCM150 Motor Efficiency Curve
 
-![alt text](https://github.com/chrischang5/Motor-Efficiency-Models/blob/main/Motor/Motor%20Curve/Graph_MotorPower_SystemEfficiency.png)
+![alt text](https://github.com/chrischang5/Motor-Efficiency-Models/blob/main/Motor/Scripts%20and%20Data/Graph_MotorPower_SystemEfficiency.png)
 
 # GM SCM150 Motor MATLAB Approximation
 
