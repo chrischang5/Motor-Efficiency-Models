@@ -1,4 +1,4 @@
-# Motor-Efficiency-Models
+# Motor Efficiency Models
 Data and Scripts for modelling the efficiency of the GM SCM150 Motor and Tritium WaveSculptor Motor Controller. These scripts and data were gathered and created as part of [UBC Solar's Simulation Project](https://github.com/UBC-Solar/Simulation).
 
 # GM SCM150 Motor Efficiency Curve
