@@ -14,7 +14,7 @@ Data and Scripts for modelling the efficiency of the GM SCM150 Motor and Tritium
 
 ![alt test](https://github.com/chrischang5/Motor-Efficiency-Models/blob/main/Motor%20Controller/Motor_Controller_Efficiency_Curve_90V.png)v
 
-# Tritium WaveSculptor Motor Controller MATLAB Approximatition
+# Tritium WaveSculptor Motor Controller MATLAB Approximation
 
 ![alt text](https://github.com/chrischang5/Motor-Efficiency-Models/blob/main/Motor%20Controller/Results/Freq_Torque_Efficiency_Curve.png)
 
